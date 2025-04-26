@@ -11,6 +11,7 @@ RunLift to aplikacja na Androida przeznaczona dla entuzjastów fitnessu, umożli
 |:---------------------------------------------------:| :-------------------------------------------: | :------------------------------------------: | :-------------------------------------------: |
 | <img src="screenshots/main_screen.png" width="200"> | <img src="screenshots/weather_screen.png" width="200"> | <img src="screenshots/profile_screen.png" width="200"> | <img src="screenshots/stopwatch_screen.png" width="200"> |
 
+
 ## Główne Funkcjonalności
 
 *   **Rejestrowanie Treningów:** Planuj i przeglądaj szczegóły przeszłych lub nadchodzących treningów (np. sprinty, trening siłowy).
